@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+link to the [app](https://mytodo2.cbaez1223.now.sh/)
+
 ## Available Scripts
 
 In the project directory, you can run:
